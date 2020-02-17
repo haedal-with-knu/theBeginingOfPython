@@ -11,7 +11,7 @@
 7. turtle, tkinter, pygame + 객체지향(클래스)
 8. flask
 
-필요한 예시 코드는 [구글 education의 `Computational](https://learn.iste.org/d2l/lor/search/search_results.d2l?ou=6606&lrepos=1006&d2l_change=0)thinking` 참고
+필요한 예시 코드는 [구글 education의 `Computational thinking`](https://learn.iste.org/d2l/lor/search/search_results.d2l?ou=6606&lrepos=1006&d2l_change=0) 참고
 
 ### 자세히 자세히
 
@@ -58,30 +58,10 @@
   - 연습만이 살길 → 예제 짜보자
 
  
-5-1. GUI와 CLI의 비교 및 파일 열고닫기(개념) + 데이터베이스 및 정보(개념)
+5. GUI와 CLI의 비교 및 파일 열고닫기(개념) + `turtle`, `pygame`, `tkinter`(실습)
 
   - GUI와 CLI의 비교
   - UX / UI 개념
-  - 파일 위치 및 경로
-  - 파일 열기, 읽어오기, 출력하기
-  - 데이터베이스 → 정보사회에서 융합을 통한 새로운 개념 창출로 가치 증대
-
-5-2. `csv`에 대한 이해(개념) + 파일 입출력(실습)
-
-  - `csv` 파일 구조 방식
-  - `csv`파일 출력(`write_csv.py`), `csv` 파일 입력(`read_csv.py`)
-  - 멜론에서 실시간 차트 가져오기(`melon_rank.py`)
-
-6. 일상에서 사용할 크롤링(개념) + 내 손으로 만져 보는 크롤링(실습)
-
-  - 귀찮은 일 자동화하기
-  - 크롤링 예시 및 활용
-  - 크롬 개발자 도구를 활용한 웹 정적 리버싱(네이버 실시간 검색어) → 웹 개발 및 디버깅
-  - 네이버 실시간 검색어 가져오기(`naver_rank.py`)
-  - melon 실시간 차트 가져오기(`melon_rank.py`)
-
-7-1. `python` 라이브러리 및 프레임워크 사용(`turtle`, `pygame`, `tkinter`)
-
   - `turtle` 이란?  
   [24. Program Frameworks - Python 3.3.7 documentation](https://docs.python.org/3.3/library/frameworks.html)
 
@@ -90,20 +70,42 @@
 
   - `tkinter` 이란?  
   [tkinter - Python interface to Tcl/Tk - Python 3.8.1 documentation](https://docs.python.org/ko/3/library/tkinter.html)
+  
+  
+5-2. 파일 입출력,`csv`에 대한 이해(개념) + 파일 입출력(실습)
 
-  - 실습자료 만들자  
-  [`turtle` 실습](https://www.notion.so/turtle-dca52e8aea724b1189763c7ababf4c17)
+  - 파일 위치 및 경로
+  - 파일 열기, 읽어오기, 출력하기
+  - `csv` 파일 구조 방식
+  - `csv`파일 출력(`write_csv.py`), `csv` 파일 입력(`read_csv.py`)
+  - 멜론에서 실시간 차트 가져오기(`melon_rank.py`)
 
-7-2.객체지향
-
-  - 시간 되면 넣어보자 안되면 포기하는거로
+6. 데이터베이스 및 정보, 일상에서 사용할 크롤링(개념) + 내 손으로 만져 보는 크롤링(실습)
+  
+  - 데이터베이스 → 정보사회에서 융합을 통한 새로운 개념 창출로 가치 증대
+  - 귀찮은 일 자동화하기
+  - 크롤링 예시 및 활용
+  - 크롬 개발자 도구를 활용한 웹 정적 리버싱(네이버 실시간 검색어) → 웹 개발 및 디버깅
+  - 네이버 실시간 검색어 가져오기(`naver_rank.py`)
+  - melon 실시간 차트 가져오기(`melon_rank.py`)
 
   
 
-8. 라이브러리와 프레임워크에 대한 이해(개념) + `flask` 입문(실습)
+7. 라이브러리와 프레임워크에 대한 이해(개념) + `flask` 입문(실습)
 
   - 라이브러리 vs 프레임워크
   - 실무에서 사용하는 파이썬을 활용한 여러 프레임워크들(`django`, `tensorflow`, `keras` 등)
   - 프레임워크를 사용할때의 장,단점 + 왜 사용하는지?
   - `flask` 실습  
     [kei01138/flaskIntroduction](https://github.com/kei01138/flaskIntroduction)
+
+
+  
+8. `python` 라이브러리 및 프레임워크 사용(`turtle`, `pygame`, `tkinter`)
+
+  - 쓸만한 예제로 실습자료 만들자  
+  [`turtle` 실습](https://www.notion.so/turtle-dca52e8aea724b1189763c7ababf4c17)
+
+8-2.객체지향
+
+  - 시간 되면 넣어보자 안되면 포기하는거로
