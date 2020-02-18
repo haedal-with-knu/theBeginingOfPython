@@ -6,10 +6,10 @@
 2. Git + 파이썬 입문 → 데이터 자료형
 3. 파이썬 변수 + 함수
 4. 조건문, 반복문
-5. 파일 입출력 
+5. GUI + 파일 입출력 
 6. 크롤링
-7. turtle, tkinter, pygame + 객체지향(클래스)
-8. flask
+7. 라이브러리, 프레임워크 + Flask
+8. 나만의 파이썬 프로젝트
 
 필요한 예시 코드는 [구글 education의 `Computational thinking`](https://learn.iste.org/d2l/lor/search/search_results.d2l?ou=6606&lrepos=1006&d2l_change=0) 참고
 
