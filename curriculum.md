@@ -71,7 +71,7 @@
   - 반복문 도입 - 귀찮은 일 대신하는 컴퓨터(매크로, 알람 등)
   - 실제 사례에 쓰이는 예시 + 쓰면 좋은 점
   - 연습만이 살길 → 예제 짜보자
-
++ 조건 + 반복 (실습 - [repetitionWithCondition.py](4.condition+repetition/repetitionWithCondition.py))
  
 5. 내 눈에 보이는 화면 + 마우스 없이 파일 다루자 
 + GUI와 CLI의 비교 및 파일 열고닫기(개념) + `turtle`, `pygame`, `tkinter`(실습)
