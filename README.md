@@ -3,13 +3,13 @@
 
 [파이썬 커리큘럼에 대한 고민](curriculum.md)
 
-1. [오픈소스 프로그래밍 + 세팅](documents/1.opensource+setting.md)
-2. [Git + 파이썬 입문 → 데이터 자료형](documents/2.git+datatypes.md)
-3. [파이썬 변수 + 함수](documents/3.string+function+library+crawling.md)
-4. [조건문 + 반복문](documents/4.condition+repetition.md)
-5. [GUI + 파일 입출력](documents/5.gui,cli+fileinput)
-6. [데이터베이스 + 크롤링](documents/6.db+crawling.md)
-7. [라이브러리, 프레임워크 + Flask](documents/7.library,framework+flask.md)
+1. [오픈소스 프로그래밍?](documents/1.opensource+setting.md)
+2. [깃과 함께 시작하는 파이썬](documents/2.git+datatypes.md)
+3. [데이터를 저장하자 + 코드묶음 함수](documents/3.string+function+library+crawling.md)
+4. [조건조건 + 반복반복](documents/4.condition+repetition.md)
+5. [내 눈에 보이는 화면 + 마우스 없이 파일 다루자](documents/5.gui,cli+fileinput)
+6. [안전하게 데이터를 저장하자 + 웹에서 데이터를 긁어오자](documents/6.db+crawling.md)
+7. [남이 만든 코드를 재사용하자](documents/7.library,framework+flask.md)
 8. [나만의 파이썬 프로젝트 제작](documents/8.pythonProjects.md)
 
 ## 커리큘럼 만들때 사용할 등장인물
