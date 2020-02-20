@@ -1,6 +1,6 @@
 # String Interpolation
 trainer = "지우"
-challenger = f'{a}'
+challenger = f'{trainer}'
 
 # 1. 옛날 방식
 f'%s %s' % ('피카츄', '파이리') # => '피카츄 파이리'

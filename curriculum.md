@@ -47,25 +47,26 @@
 전역변수 및 지역변수? ASCII 코드?
 
 3. 데이터를 저장하자 + 코드묶음 함수
-+ 변수란?
++ 변수란?([variables.py](3.string+function+library+crawling/variables.py))
   - 변수의 개념
   - 변수 선언 방법, 사용 방법
   - 변수 이름 짓기
   
 + 파이썬 문자열 입출력, 라이브러리 및 함수(개념 + 실습)
-  - 파이썬 문자열 입출력(`input`, `print`)
-  - `random` 이용한 로또 뽑기(`lotto.py`)
+  - 파이썬 문자열 입출력([input+print.py](3.string+function+library+crawling/input+print.py))
+  - 함수란?, 함수 사용하자([functions.py](3.string+function+library+crawling/functions.py))
+  - 모듈 `random` 이용한 로또 뽑기([lotto.py](3.string+function+library+crawling/lotto.py))
   
 
 
 4. 조건조건 + 반복반복 
-+ 조건문을 왜 쓰는지? 어디에 활용하는지?(개념) + 조건문 트레이닝(실습)
++ 조건문을 왜 쓰는지? 어디에 활용하는지?(개념) + 조건문 트레이닝(실습 - [condition.py](4.condition+repetition/condition.py))
 
   - 조건문 도입 - 컴퓨터처럼 생각하기(경우의 수)
   - 실제 사례에 쓰이는 예시 + 쓰면 좋은 점
   - 연습만이 살길 → 예제 짜보자
 
-+ 반복문을 왜 쓰는지? 어디에 활용하는지?(개념) + 반복문 트레이닝(실습)
++ 반복문을 왜 쓰는지? 어디에 활용하는지?(개념) + 반복문 트레이닝(실습 - [repetition.py](4.condition+repetition/repetition.py))
 
   - 반복문 도입 - 귀찮은 일 대신하는 컴퓨터(매크로, 알람 등)
   - 실제 사례에 쓰이는 예시 + 쓰면 좋은 점
