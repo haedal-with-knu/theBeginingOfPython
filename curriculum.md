@@ -16,7 +16,7 @@
 참고 서적은 [Hello Coding 한입에 쏙 파이썬](http://m.hanbit.co.kr/store/books/book_view.html?p_code=B5915471368), [Hello Coding 쌩 초보의 처음 프로그래밍 파이썬](http://m.hanbit.co.kr/store/books/book_view.html?p_code=B8489740275)  
 
 
-## 커리큘럼 만들때 사용할 등장인물
+## 수업 시작할 때(Ice breaking) 사용할 등장인물
 > 포켓몬스터 캐릭터 사용
 * 사람 : 지우, 로켓단 로이, 로켓단 로사
 * 지우 포켓몬 : 피카츄, 파이리, 꼬북이, 이상해씨, 잠만보, 이브이
@@ -40,19 +40,23 @@
 
 + `Git`을 이용한 끝말잇기(실습) + 파이썬 데이터 자료형(개념 + 실습)
   - 친구랑 `Git`에서 협업하는 연습하기(`commit`, `push)`
-  - 파이썬 데이터 자료형(숫자, 문자열), 연산자(여러가지, 복합)
-  - 옛날 방식, `pyformat`, `f-string` 활용한 파이썬 문자열 (`string_interpolation.py`)
+  - 파이썬 데이터 자료형([숫자](2.git+datatypes/numbers.py), [문자열](2.git+datatypes/string.py)), [연산자](2.git+datatypes/operators.py)
+  - 주석 개념 + 사용방법
+  - 옛날 방식, `pyformat`, `f-string` 활용한 파이썬 문자열 ([`string_interpolation.py`](2.git+datatypes/string_interpolation.py))
 
 전역변수 및 지역변수? ASCII 코드?
 
 3. 데이터를 저장하자 + 코드묶음 함수
++ 변수란?
+  - 변수의 개념
+  - 변수 선언 방법, 사용 방법
+  - 변수 이름 짓기
+  
 + 파이썬 문자열 입출력, 라이브러리 및 함수(개념 + 실습)
   - 파이썬 문자열 입출력(`input`, `print`)
   - `random` 이용한 로또 뽑기(`lotto.py`)
-  - 파일 입력(`write_txt.py`, `for`),  `Escape Sequence`, 파일 출력(`read_txt.py`), 파일 수정(`reverse_content.py`)
+  
 
-+ 크롤링(개념 + 실습)
-  - `bs4`를 사용한 크롤링 활용(`naver_rank.py`)
 
 4. 조건조건 + 반복반복 
 + 조건문을 왜 쓰는지? 어디에 활용하는지?(개념) + 조건문 트레이닝(실습)
@@ -82,11 +86,12 @@
   - `tkinter` 이란?  
   [tkinter - Python interface to Tcl/Tk - Python 3.8.1 documentation](https://docs.python.org/ko/3/library/tkinter.html)
   
-  
+
 + 파일 입출력,`csv`에 대한 이해(개념) + 파일 입출력(실습)
 
   - 파일 위치 및 경로
-  - 파일 열기, 읽어오기, 출력하기
+  - 파일 입력(`write_txt.py`), 출력(`read_txt.py`), 수정(`reverse_content.py`)
+  - `Escape Sequence`
   - `csv` 파일 구조 방식
   - `csv`파일 출력(`write_csv.py`), `csv` 파일 입력(`read_csv.py`)
   - 멜론에서 실시간 차트 가져오기(`melon_rank.py`)
