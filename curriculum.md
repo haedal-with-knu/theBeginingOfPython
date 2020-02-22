@@ -56,6 +56,7 @@
   - 파이썬 문자열 입출력([input+print.py](3.string+function+library+crawling/input+print.py))
   - 함수란?, 함수 사용하자([functions.py](3.string+function+library+crawling/functions.py))
   - 모듈 `random` 이용한 로또 뽑기([lotto.py](3.string+function+library+crawling/lotto.py))
+  - 객체지향 개념 + 실습(아직 코드 못짬, 포켓몬 활용해 예제 만들어보자)
   
 
 
@@ -74,7 +75,7 @@
 + 조건 + 반복 (실습 - [repetitionWithCondition.py](4.condition+repetition/repetitionWithCondition.py))
  
 5. 내 눈에 보이는 화면 + 마우스 없이 파일 다루자 
-+ GUI와 CLI의 비교 및 파일 열고닫기(개념) + `turtle`, `pygame`, `tkinter`(실습)
++ GUI와 CLI의 비교 및 파일 열고닫기(개념) + `turtle`, `pygame`, `tkinter`(개념) + [`pysnake`](5.gui,cli+fileinput/pysnake.py) (실습)
 
   - GUI와 CLI의 비교
   - UX / UI 개념
@@ -86,13 +87,15 @@
 
   - `tkinter` 이란?  
   [tkinter - Python interface to Tcl/Tk - Python 3.8.1 documentation](https://docs.python.org/ko/3/library/tkinter.html)
-  
+  - [playsnake](https://python.bakyeono.net/chapter-12-1.html)를 통한 게임 만들기
+    [파이썬으로 뱀 게임 만들기](https://python.bakyeono.net/chapter-12-1.html) 참조해 코드 완성하자
 
 + 파일 입출력,`csv`에 대한 이해(개념) + 파일 입출력(실습)
 
-  - 파일 위치 및 경로
-  - 파일 입력(`write_txt.py`), 출력(`read_txt.py`), 수정(`reverse_content.py`)
-  - `Escape Sequence`
+  - 파일 위치 및 경로([`directory.py`](5.gui,cli+fileinput/directory.py))
+  - 파일 입력([`write_txt.py`](5.gui,cli+fileinput/write_txt.py)) + `with`(context manager)
+  - 파일 출력(`read_txt.py`), 수정(`reverse_content.py`)
+  - [`Escape Sequence`](5.gui,cli+fileinput/escape_sequence.py)
   - `csv` 파일 구조 방식
   - `csv`파일 출력(`write_csv.py`), `csv` 파일 입력(`read_csv.py`)
   - 멜론에서 실시간 차트 가져오기(`melon_rank.py`)
@@ -125,7 +128,3 @@
 
   - 쓸만한 예제로 실습자료 만들자  
   [`turtle` 실습](https://www.notion.so/turtle-dca52e8aea724b1189763c7ababf4c17)
-
-+ 객체지향
-
-  - 시간 되면 넣어보자 안되면 포기하는거로
