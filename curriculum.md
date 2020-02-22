@@ -41,6 +41,7 @@
 + `Git`을 이용한 끝말잇기(실습) + 파이썬 데이터 자료형(개념 + 실습)
   - 친구랑 `Git`에서 협업하는 연습하기(`commit`, `push)`
   - 파이썬 데이터 자료형([숫자](2.git+datatypes/numbers.py), [문자열](2.git+datatypes/string.py)), [연산자](2.git+datatypes/operators.py)
+  - 리스트, 튜플, 딕셔너리?
   - 주석 개념 + 사용방법
   - 옛날 방식, `pyformat`, `f-string` 활용한 파이썬 문자열 ([`string_interpolation.py`](2.git+datatypes/string_interpolation.py))
 
@@ -94,21 +95,20 @@
 
   - 파일 위치 및 경로([`directory.py`](5.gui,cli+fileinput/directory.py))
   - 파일 입력([`write_txt.py`](5.gui,cli+fileinput/write_txt.py)) + `with`(context manager)
-  - 파일 출력(`read_txt.py`), 수정(`reverse_content.py`)
+  - 파일 출력([`read_txt.py`](5.gui,cli+fileinput/read_txt.py)), 수정([`reverse_content.py`](5.gui,cli+fileinput/reverse_content.py))
   - [`Escape Sequence`](5.gui,cli+fileinput/escape_sequence.py)
-  - `csv` 파일 구조 방식
-  - `csv`파일 출력(`write_csv.py`), `csv` 파일 입력(`read_csv.py`)
-  - 멜론에서 실시간 차트 가져오기(`melon_rank.py`)
+  - `csv` 파일 구조 방식([`csv_format.py`](5.gui,cli+fileinput/csv_format.py))
+  - `csv`파일 출력([`write_csv.py`](5.gui,cli+fileinput/write_csv.py)), `csv` 파일 입력([`read_csv.py`](5.gui,cli+fileinput/read_csv.py))
 
 6. 안전하게 데이터를 저장하자 + 웹에서 데이터를 긁어오자 
 + 데이터베이스 및 정보, 일상에서 사용할 크롤링(개념) + 내 손으로 만져 보는 크롤링(실습)
   
   - 데이터베이스 → 정보사회에서 융합을 통한 새로운 개념 창출로 가치 증대
-  - 귀찮은 일 자동화하기
+  - 귀찮은 일 자동화하기(매크로?)
   - 크롤링 예시 및 활용
   - 크롬 개발자 도구를 활용한 웹 정적 리버싱(네이버 실시간 검색어) → 웹 개발 및 디버깅
-  - 네이버 실시간 검색어 가져오기(`naver_rank.py`)
-  - melon 실시간 차트 가져오기(`melon_rank.py`)
+  - 네이버 실시간 검색어 가져오기([`naver_rank.py`](6.db+crawling/naver_rank.py)) 
+  - melon 실시간 차트 가져오기([`melon_rank.py`](6.db+crawling/melon_rank.py))
 
   
 

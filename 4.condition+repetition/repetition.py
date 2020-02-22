@@ -27,3 +27,5 @@ for num in range(3):
 for num in range(3):
   pokemons[num] = "이브이"
 print(pokemons)
+
+print(num) # range 종료시 매개변수 값
