@@ -6,7 +6,7 @@
 2. [깃과 함께 시작하는 파이썬](documents/2.git+datatypes.md)
 3. [데이터를 저장하자 + 코드묶음 함수](documents/3.string+function+library+crawling.md)
 4. [조건조건 + 반복반복](documents/4.condition+repetition.md)
-5. [내 눈에 보이는 화면 + 마우스 없이 파일 다루자](documents/5.gui,cli+fileinput.md)
+5. [내 눈에 보이는 화면 + 마우스 없이 파일 다루자](documents/5.gui,cli+fileinputoutput.md)
 6. [안전하게 데이터를 저장하자 + 웹에서 데이터를 긁어오자](documents/6.db+crawling.md)
 7. [남이 만든 코드를 재사용하자](documents/7.library,framework+flask.md)
 8. [나만의 파이썬 프로젝트 제작](documents/8.pythonProjects.md)
