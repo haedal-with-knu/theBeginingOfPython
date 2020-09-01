@@ -11,6 +11,8 @@
 6. [안전하게 데이터를 저장하자 + 웹에서 데이터를 긁어오자](documents/6.db+crawling.md)
 7. [남이 만든 코드를 재사용하자](documents/7.library,framework+flask.md)
 8. [나만의 파이썬 프로젝트 제작](documents/8.pythonProjects.md)
+9. [웹 크롤링에 대해 알아보자.araboza](documents/9.pythonWebCrawling.md)
+
 
 ## 수업 시작할 때(Ice breaking) 사용할 등장인물
 > 포켓몬스터 캐릭터 사용
